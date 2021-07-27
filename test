@@ -1,5 +1,5 @@
 {
-  {"hi":false}
-  {"hi 2":true}
-  {"ooooooooooof":1234}
+  1:{"hi":false}
+  2:{"hi 2":true}
+  3:{"ooooooooooof":1234}
 }
