@@ -1,1 +1,4 @@
-{"hi":true}
+{
+  {"hi":false}
+  {"hi 2":true}
+}
